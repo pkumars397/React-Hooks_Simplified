@@ -1,0 +1,6 @@
+1.) UseContext is central place to store
+ variable. 
+
+2.) to use it ,we have to first provide it on whole app .for that we can create a custom component for Provider component.
+
+3.)for using that ,we can use the useContext.we can also create a custom hook for creating using it.
