@@ -1,0 +1,3 @@
+UseRef is mainly used for taking a reference of some elements.and can manipulate the value of that field.
+
+and also we can keep track of prevState of state variables.
